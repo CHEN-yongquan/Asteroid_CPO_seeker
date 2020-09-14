@@ -1,4 +1,4 @@
-# Code for  "[Terminal Adaptive Guidance via Reinforcement Meta-Learning: Applications to Autonomous Asteroid Close-Proximity Operations](https://arxiv.org/abs/1907.06098)"
+# Code for  "[Terminal Adaptive Guidance via Reinforcement Meta-Learning: Applications to Autonomous Asteroid Close-Proximity Operations](https://doi.org/10.1016/j.actaastro.2020.02.036)"
 # If you use this code in your research, please cite:
 @article{gaudet2020terminal,
   title={Terminal Adaptive Guidance via Reinforcement Meta-Learning: Applications to Autonomous Asteroid Close-Proximity Operations},
